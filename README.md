@@ -9,7 +9,7 @@ Small WebSocket chat backend using Java, Spring Boot and Maven. The project proc
 ## Build
 Build the project:
 ```bash
-mvn  package
+mvn package
 ```
 
 ## Run
@@ -22,4 +22,4 @@ mvn spring-boot:run
 Default port in 8080
 
 ## Frontend 
-This app work with an Angular frontend which runs on port 4200 by default
+This app work with an Angular frontend which runs on port 4200 by default, you can find it here https://github.com/zwakelem/chatfrontend
